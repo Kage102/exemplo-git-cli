@@ -17,7 +17,8 @@ Inicializar um repositório (executado dentro da pasta)
 
 verificar usuário/email
 
-`git config --global user.name "seu nome como quiser"` e  `git config --global user.email "seuemail@provedor.com"`
+`git config --global user.name "seu nome como quiser"` e  
+`git config --global user.email "seuemail@provedor.com"`
 
 Mudar usuário e email de forma global
 
@@ -30,3 +31,11 @@ Inicialozar um repositório (executado dentro da pasta).
 `git status`
 
 Verificar o status atual do repositório.
+
+`git add nomearquivo` ou `git add .`
+
+Adicionar (tornar arquivo rastreável) ao monitoramento do git.
+
+`git commit -m "Texto da mensagem sobre esta alteração"`
+
+Fazer commit das alterações (salvar no histórico).
