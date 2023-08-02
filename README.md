@@ -17,6 +17,12 @@ Inicializar um repositório (executado dentro da pasta)
 
 verificar usuário/email
 
+`git config --global user.name "seu nome como quiser"` e  `git config --global user.email "seuemail@provedor.com"`
+
+Mudar usuário e email de forma global
+
+**Obs:** normalmente estes dados estão relacionados ao usuário/conta do site GitHub.
+
 `git init`
 
 Inicialozar um repositório (executado dentro da pasta).
