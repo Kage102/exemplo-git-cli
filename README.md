@@ -11,6 +11,16 @@
 
 Inicializar um repositório (executado dentro da pasta)
 
-git init
+## Comandos principais do git
 
-git status
+`git config user.name` e  `git config user.email`
+
+verificar usuário/email
+
+`git init`
+
+Inicialozar um repositório (executado dentro da pasta).
+
+`git status`
+
+Verificar o status atual do repositório.
